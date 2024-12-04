@@ -1,2 +1,2 @@
-# shutis
-hichelin code uud
+# algo shinjilge
+hichelin lab iin ajluud
